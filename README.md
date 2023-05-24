@@ -12,18 +12,20 @@
 Esta aplicação foi feita para um teste de laravel e suas ferramentas.
 
 ## Passo a passo para utilizar
+Execute os seguintes comandos em seu terminal:
 
--clone o repositório
--abra o terminal e rode os comandos abaixo
--composer install
--npm install
--copy .env.example .env
--php artisan key:generate
--php artisan migrate
--php artisan db:seed
--npm run build
--php artisan serve
+```
 
+composer install
+npm install
+copy .env.example .env
+php artisan key:generate
+php artisan migrate
+php artisan db:seed
+npm run build
+php artisan serve
+
+```
 ## Usuario para login
 
 email: emailUser@example.com
