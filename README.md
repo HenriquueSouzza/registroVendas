@@ -12,7 +12,13 @@
 Esta aplicação foi feita para um teste de laravel e suas ferramentas.
 
 ## Passo a passo para utilizar
-Execute os seguintes comandos em seu terminal:
+1. Crie uma nova base de dados em seu banco de dados chamada:
+
+```
+registro_vendas
+```
+
+2. Clone esse repositório e execute os seguintes comandos em seu terminal:
 
 ```
 composer install
