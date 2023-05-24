@@ -1,4 +1,4 @@
-## Sobre o projeto
+# Sobre o projeto
 
 Esta aplicação foi feita para um teste de laravel e suas ferramentas.
 
