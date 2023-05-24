@@ -15,16 +15,35 @@ Esta aplicação foi feita para um teste de laravel e suas ferramentas.
 Execute os seguintes comandos em seu terminal:
 
 ```
-
 composer install
-npm install
-copy .env.example .env
-php artisan key:generate
-php artisan migrate
-php artisan db:seed
-npm run build
-php artisan serve
+```
 
+```
+npm install
+```
+
+```
+copy .env.example .env
+```
+
+```
+php artisan key:generate
+```
+
+```
+php artisan migrate
+```
+
+```
+php artisan db:seed
+```
+
+```
+npm run build
+```
+
+```
+php artisan serve
 ```
 ## Usuario para login
 
